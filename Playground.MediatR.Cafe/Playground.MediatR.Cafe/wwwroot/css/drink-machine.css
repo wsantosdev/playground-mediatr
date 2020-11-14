@@ -1,0 +1,33 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+#title {
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+#separator {
+    margin-bottom: 5px;
+}
+
+#spanError {
+    color: darkred;
+    font-weight: bold;
+}
+
+button {
+    font-size: large;
+    cursor: pointer;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    width: 250px;
+    padding: 7px 0 7px 0;
+    margin: 5px 0 5px 0;
+}
